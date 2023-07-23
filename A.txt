@@ -1,4 +1,3 @@
 Hello morning 
 Good morning
-Bye
 Welcome to Github
